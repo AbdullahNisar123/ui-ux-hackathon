@@ -22,7 +22,7 @@ const RoomInspiration = () => {
         </div>
 
         {/* Right Content */}
-        <div className="w-full flex items-center justify-center gap-8">
+        <div className="w-full md:flex hidden items-center justify-center gap-8 ">
           {/* Main Image */}
           <div className="relative w-[404px] h-[582px] overflow-hidden ">
             
